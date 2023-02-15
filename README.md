@@ -1,3 +1,6 @@
+> **Warning**
+> Archived in favor of upstream GitHub action <https://github.com/oss-review-toolkit/ort-ci-github-action>.
+
 # Execute ORT with a Github Action
 
 This action allows you to run [ORT](https://oss-review-toolkit.org/). The OSS
